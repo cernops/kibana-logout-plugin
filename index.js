@@ -12,7 +12,7 @@ export default function (kibana) {
         // The require reference to the JavaScript file for this app
         main: 'plugins/elasticsearch_logout/app',
         // The require reference to the icon of the app
-        icon: 'plugins/elasticsearch_logout/icon.svg'
+        icon: 'plugins/elasticsearch_logout/icon.png'
       }
     },
   });
