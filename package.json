@@ -1,7 +1,7 @@
 {
   "name": "elasticsearch_logout",
-  "version": "6.8.0",
-  "description": "An awesome Kibana plugin",
+  "version": "7.1.1",
+  "description": "Kibana plugin for CERN SSO logout",
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
