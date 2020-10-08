@@ -1,0 +1,10 @@
+{
+    "prefix": "kibanaLogoutPlugin",
+    "paths": {
+      "kibanaLogoutPlugin": "."
+    },
+    "translations": [
+      "translations/ja-JP.json"
+    ]
+  }
+  
