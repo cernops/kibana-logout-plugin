@@ -1,0 +1,8 @@
+{
+  "id": "kibanaLogoutPlugin",
+  "version": "7.8.1",
+  "server": false,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}
